@@ -22,8 +22,8 @@ const AuthBackGround: React.FC<Props> = ({
       >
         <div className="justify-center items-center text-center hidden lg:flex flex-col lg:w-1/2 relative">
           <div className="font-semibold text-lg w-full">
-            <span className="font-bold text-4xl">{"PDFSliceMaster"||<img className="w-32 ml-4 h-15" src={""} alt="image" />}</span> <br />
-            Easy pdf Chopper
+            <span className="font-bold text-4xl">{"PDF-Extractor-Clone"||<img className="w-32 ml-4 h-15" src={""} alt="image" />}</span> <br />
+            
           </div>
           <img
             src={sideImg}
